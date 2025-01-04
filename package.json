@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: nab off\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "author": "DominicFinn",
   "license": "ISC",
-  "description": "",
+  "description": "Downloads CSV of contacts from saved list in Sales Nav",
   "dependencies": {
-    "cheerio": "^1.0.0",
     "dotenv": "^16.4.7",
     "playwright": "^1.42.1"
   }
