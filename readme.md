@@ -20,8 +20,13 @@ Sales Navigator has some quirks, such as not allowing easy export of saved searc
 
 ## Prerequisites
 
+### Technical
 - Node.js (LTS version recommended)
 - NPM (comes with Node.js)
+
+### Life
+- You need the ID of a saved search from Sales Navigator (it's in the URL of the saved list)
+- You need a linkedin account with sales navigator access that can access the saved list 
 
 ## Installation
 
