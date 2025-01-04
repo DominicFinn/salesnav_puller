@@ -16,7 +16,7 @@ Sales Navigator has some quirks, such as not allowing easy export of saved searc
 ## Key Notes
 
 - The tool **waits until the user has completed any required security checks**. This is intentional and works seamlessly with setups using 2-factor authentication.
-- The **code layout is as-is** and not intended to be a showcase of advanced JavaScript or TypeScript practices. It is functional, simple, and focused on solving the problem at hand.
+- The **code layout is as-is** and not intended to be a showcase of advanced JavaScript or TypeScript practices. It is functional, simple, and focused on solving the problem.
 
 ## Prerequisites
 
@@ -46,6 +46,7 @@ Sales Navigator has some quirks, such as not allowing easy export of saved searc
    ```
 2. Follow the prompts to log in to Sales Navigator and complete any security checks.
 3. Once authenticated, the tool will extract the contact data and generate CSV files in the project directory.
+4. Be patient, it will trawl the pages of your saved list. 
 
 ## Limitations
 
